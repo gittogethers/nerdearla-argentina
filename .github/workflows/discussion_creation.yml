@@ -1,0 +1,47 @@
+name: Discussion Creation on New Folder
+
+on:
+  push:
+    paths:
+      - '**/'
+
+jobs:
+  create_discussion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Check for added folders
+        id: check_folders
+        run: |
+          ADDED_FOLDERS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '/' | awk -F/ '{print $1}' | uniq)
+          if [ -z "$ADDED_FOLDERS" ]; then
+            echo "No new folders added."
+            echo "::set-output name=status::skipped"
+          else
+            echo "New folders detected: $ADDED_FOLDERS"
+            echo "::set-output name=status::found"
+            echo "::set-output name=folders::$ADDED_FOLDERS"
+          fi
+
+      - name: Setup the GitHub CLI
+        uses: actions4gh/setup-gh@v1.0.2
+            
+      - name: Authenticate with GitHub token
+        run: gh auth login --with-token ${{ secrets.ACTIONS }}
+
+      - name: Create a new GitHub Discussion
+        id: create-discussion
+        uses: abirismyname/create-discussion@v1.x
+       
+        env:
+            GH_TOKEN: ${{ secrets.ACTIONS }}          
+        if: steps.check_folders.outputs.status == 'found'
+        
+      

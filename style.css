@@ -1,0 +1,79 @@
+/* Navigation Bar Styles */
+#navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  padding: 10px 0;
+}
+
+#navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Collapsible Sections Styles */
+details {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Footer Styles */
+#footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#footer a {
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+}
+
+/* Image Presentation Enhancements */
+img {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Font Sizes, Styles, and Colors */
+body {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #navbar {
+    flex-direction: column;
+  }
+}
