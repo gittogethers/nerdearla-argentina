@@ -1,6 +1,6 @@
 # GitHub ❤️ Nerdearla
 
-Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Chile](https://nerdear.la/en/)**.
+Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Argentina](https://nerdear.la/en/)**.
 
 <!-- Navigation Bar -->
 <div id="navbar">
