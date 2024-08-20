@@ -24,7 +24,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 ## Día 2: Plataforma Virtual | Jueves, 26 de Septiembre
 
 
-## Día 3: Presencial | Viernes, 27 de Septiembre 
+## Día 3: Presencial Konex | Viernes, 27 de Septiembre 
 
 - **10:00 AM**: Apertura de la Exhibición Física.
 - **10:00 AM - 10:30 AM**: GitHub Copilot para tu Productividad por Oliver Fierro | Stand
@@ -44,7 +44,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 </p>
 
 
-## Día 3: Presencial | Sabado, 28 de Septiembre 
+## Día 3: Presencial Konex | Sabado, 28 de Septiembre 
 
 - **10:00 AM**: Apertura de la Exhibición. ¡Únete a nosotros para un sorteo especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
 - **12:30 PM - 1:00 PM**: Kahoot sobre Git y GitHub | Stand
