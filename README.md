@@ -18,21 +18,13 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 
 # Horarios y Actividades 🗓️
 
-## Día 0: Evento en AIEP | Miércoles, 10 de Abril
+## Día 1: Plataforma Virtual | Miércoles, 25 de Septiembre
 
-¡Hola comunidad! Estamos emocionados de anunciar nuestro primer evento presencial en abril. 🙌🏼 En este evento, tendrás la oportunidad de conocer a la comunidad de GitHub, disfrutar de charlas interesantes, interactuar con profesionales de GitHub, participar en concursos y más. Unete a la comunidad para participar el los proximos eventos: [GitTogether Santiago](https://www.meetup.com/gittogether-santiago/)
 
-## Día 1: Plataforma Virtual | Jueves, 11 de Abril
+## Día 2: Plataforma Virtual | Jueves, 26 de Septiembre
 
-- **10:00 AM**: Apertura de la Exhibición Virtual. Únete a nosotros para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
-  - Regístrate para ganar: Deja un comentario en este [issue](https://github.com/gittogethers/selector-rifa/issues/63).
-- **Charla del Día por el Líder de GitTogether Santiago**: [grabaccion](https://app.swapcard.com/event/nerdearla-chile-2024/planning/UGxhbm5pbmdfMTg4MjM2NQ==)
 
-## Día 2 | Viernes, 12 de Abril
-
-<!-- Collapsible Section for Day 2 Schedule -->
-<details>
-<summary><strong>Día 2 Schedule</strong></summary>
+## Día 3: Presencial | Viernes, 27 de Septiembre 
 
 - **10:00 AM**: Apertura de la Exhibición Física.
 - **10:00 AM - 10:30 AM**: GitHub Copilot para tu Productividad por Oliver Fierro | Stand
@@ -46,17 +38,13 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 - **4:00 PM**: Octotrivia en el stand de exhibición de GitHub. ¡Juega, participa y demuestra tus conocimientos en IA para ganar swag!
 - **4:30 PM**: Premios de raffle, entra aqui: [https:gh.io/sorteo-viernes](https:gh.io/sorteo-viernes)
 
-</details>
 
 <p align="left">
 <img width="420" alt="Charla del Día" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5"
 </p>
 
-## Día 3 | Sábado, 13 de Abril
 
-<!-- Collapsible Section for Day 3 Schedule -->
-<details>
-<summary><strong>Día 3 Schedule</strong></summary>
+## Día 3: Presencial | Sabado, 28 de Septiembre 
 
 - **10:00 AM**: Apertura de la Exhibición. ¡Únete a nosotros para un sorteo especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
 - **12:30 PM - 1:00 PM**: Kahoot sobre Git y GitHub | Stand
@@ -66,7 +54,6 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 - **4:00 PM - 4:30 PM**: Comparte un Momento de Nerdearla | Deja tu comentario aquí para participar | Stand
 - **4:00 PM**: Sorteo Final. Si aún no has participado en nuestro sorteo, ¡esta es tu oportunidad! Regístrate para ganar: Deja un comentario en este [issue](https://github.com/gittogethers/selector-rifa/issues/63).
 
-</details>
 
 ## ✍🏽 Términos y Condiciones:
 
