@@ -43,4 +43,4 @@ Consulta el calendario detallado a continuación para planificar tu experiencia.
 
 **Contacto**: [GitHub](https://github.com/contact)
 
-Síguenos en nuestras redes sociales: [Twitter](https://twitter.com/github)
+Síguenos en nuestras redes sociales: [Twitter](https://twitter.com/githubcommunity)
