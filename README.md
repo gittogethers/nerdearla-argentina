@@ -22,7 +22,7 @@ Consulta el calendario detallado a continuación para planificar tu experiencia.
 | 3️⃣ | Jueves, 26/09/2024 | 10:30 - 11:00 | 🤝 Presentación Comunidad GitHub Buenos Aires | Stand | Eduardo Spotti |
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | Ignacio Palma |
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
-| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Developer Experience | Gran Sala | @luispujols |
+| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Ayudando a tu equipo y tu negocio a prosperar| Gran Sala | @luispujols |
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | GitHub Team |
 | 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | GitHub Team |
 | 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | GitHub Team |
