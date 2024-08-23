@@ -10,27 +10,27 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ar
 - **Oportunidad de Certificación**: Taller de Fundamentos de GitHub con voucher gratis para el examen.
 - **Networking**: Conéctate con la comunidad [GitHub de Buenos Aires](https://www.meetup.com/gittogether-buenos-aires/).
 
-Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, conectar y celebrar el desarrollo colaborativo con GitHub!
-
-Consulta el calendario detallado a continuación para planificar tu experiencia.
+Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, conectar y celebrar el desarrollo colaborativo con GitHub! Consulta el calendario detallado a continuación para planificar tu experiencia.
 
 | Día | Fecha | Hora | Actividad | Ubicación | Ponente |
 |:---:|:------|:-----|:----------|:----------|:--------|
-| 1️⃣ | Martes, 24/09/2024 | 10:40 - 12:10 | 🖥️ GitHub Virtual Stand | Plataforma Virtual | GitHub Team |
-| 2️⃣ | Miércoles, 25/09/2024 | 10:40 - 12:10 | 🎓 GitHub Fundamentals Taller | Página Virtual | Andrea |
-| 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | GitHub Team |
+| 1️⃣ | Martes, 24/09/2024 | 10:40 - 12:10 | 🖥️ GitHub Virtual Stand Apertura | Plataforma Virtual | Equipo GitHub |
+| 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | VanessaMarely |
+| 2️⃣ | Miércoles, 25/09/2024 | 10:40 - 12:10 | 🎓 Taller de Fundamentos de GitHub | Página Virtual | Andrea |
+| 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | Equipo GitHub |
 | 3️⃣ | Jueves, 26/09/2024 | 10:30 - 11:00 | 🤝 Presentación Comunidad GitHub Buenos Aires | Stand | Eduardo Spotti |
+| 3️⃣ | Jueves, 26/09/2024 | 10:50 | 🏗️ Mantenimiento de Monorepo | Virtual | Amenocal |
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | Ignacio Palma |
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
-| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Ayudando a tu equipo y tu negocio a prosperar| Gran Sala | @luispujols |
-| 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | GitHub Team |
-| 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | GitHub Team |
-| 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | GitHub Team |
-| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 | 🧠 Kahoot sobre Git y GitHub | Stand | GitHub Team |
-| 4️⃣ | Viernes, 27/09/2024 | 13:30 - 14:00 | 📱 Entrevistas IG Reel | Stand | GitHub Team |
+| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | @luispujols |
+| 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 13:30 - 14:00 | 📱 Entrevistas IG Reel | Stand | Equipo GitHub |
 | 4️⃣ | Viernes, 27/09/2024 | 14:30 - 15:00 | 🚀 Impulsando tu DevEx con GitHub Copilot | Auditorio | @mcantu |
-| 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | GitHub Team |
-| 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | GitHub Team |
+| 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
+| 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | Equipo GitHub |
 
 
 ## Términos y Condiciones ✍🏽
