@@ -21,7 +21,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 3️⃣ | Jueves, 26/09/2024 | 10:30 - 11:00 | 🤝 Presentación Comunidad GitHub Buenos Aires | Stand | GitHub Community Leader Eduardo Spotti |
 | 3️⃣ | Jueves, 26/09/2024 | 10:50 | 🏗️ Mantenimiento de Monorepo | Virtual | Amenocal |
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | GitHub Campus Expert Ignacio Palma |
-| 3️⃣ | Jueves, 26/09/2024 | 14:00 - 14:20 | 🎙 Lighting Talk: La Voz del Developer: Éxitos, Retos y Lecciones de una DX-Survey | Stand | Pámela Rosales (MELI) |
+| 3️⃣ | Jueves, 26/09/2024 | 14:00 - 14:20 | 🎙 Lighting Talk: Unlocking the not-so-secret formula for great software | Stand | Javier Cardoso (MELI) |
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
 | 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | @luispujols |
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | Equipo GitHub |
