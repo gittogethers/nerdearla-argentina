@@ -25,7 +25,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | [GitHub Campus Expert Ignacio Palma](https://gh.io/ignacio) |
 | 3️⃣ | Jueves, 26/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Unlocking the not-so-secret formula for great software | Stand | Javier Cardoso (MELI) |
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
-| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | @luispujols |
+| 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | [Luis Pujols](https://www.linkedin.com/in/pujolsluis/) |
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
