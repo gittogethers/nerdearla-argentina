@@ -15,7 +15,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | Día | Fecha | Hora | Actividad | Ubicación | Ponente |
 |:---:|:------|:-----|:----------|:----------|:--------|
 | 1️⃣ | Martes, 24/09/2024 | 10:40 - 12:10 | 🖥️ GitHub Virtual Stand Apertura | Plataforma Virtual | Equipo GitHub |
-| 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | GitHub Star @VanessaMarely |
+| 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | [GitHub Star @VanessaMarely](https://stars.github.com/profiles/vanessamarely/) |
 | 2️⃣ | Miércoles, 25/09/2024 | 10:40 - 12:10 | 🎓 Taller de Fundamentos de GitHub | Virtual | [Andrea Griffiths](https://instagram.com/alacolombiadev) |
 | 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | Equipo GitHub |
 | 3️⃣ | Jueves, 26/09/2024 | 10:10 - 10:50 | 🚶‍♂️ La Senda del Freelance | Konex - Gran Sala | [GitHub Star Brais Moure](https://www.youtube.com/@mouredev) |
