@@ -32,7 +32,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 4️⃣ | Viernes, 27/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Hackeando el Soporte: El arte de reducir y eliminar tickets | Stand | Nico Distefano y Ailen Lujan (MELI) |
 | 4️⃣ | Viernes, 27/09/2024 | 14:30 - 15:00 | 🚀 Impulsando tu DevEx con GitHub Copilot | Auditorio | @mcantu |
 | 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
-| 5️⃣ | Sábado, 28/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: DNS - Siempre es el DNS | Stand | Jota Perez (MELI) |
+| 5️⃣ | Sábado, 28/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Listening to the developers’ voice: DevEx at MELI | Stand | Pamela Rosales (MELI) |
 | 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | Equipo GitHub |
 
 
