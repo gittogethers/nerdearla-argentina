@@ -17,7 +17,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 1️⃣ | Martes, 24/09/2024 | 10:40 - 12:10 | 🖥️ GitHub Virtual Stand Apertura | Plataforma Virtual | Equipo GitHub |
 | 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | [GitHub Star @VanessaMarely](https://stars.github.com/profiles/vanessamarely/) |
 | 2️⃣ | Miércoles, 25/09/2024 | 10:40 - 12:10 | 🎓 Taller de Fundamentos de GitHub | Virtual | [Andrea Griffiths](https://instagram.com/alacolombiadev) |
-| 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | Equipo GitHub |
+| 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 3️⃣ | Jueves, 26/09/2024 | 10:10 - 10:50 | 🚶‍♂️ La Senda del Freelance | Konex - Gran Sala | [GitHub Star Brais Moure](https://www.youtube.com/@mouredev) |
 | 3️⃣ | Jueves, 26/09/2024 | 10:30 - 11:00 | 🤝 Presentación Comunidad GitHub Buenos Aires | Stand | GitHub Community Leader Eduardo Spotti |
 | 3️⃣ | Jueves, 26/09/2024 | 10:50 | 🏗️ Mantenimiento de Monorepo | Virtual | Amenocal |
@@ -27,15 +27,15 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
 | 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | @luispujols |
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | Equipo GitHub |
-| 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | Equipo GitHub |
-| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
-| 4️⃣ | Viernes, 27/09/2024 | 13:30 - 14:00 | 📱 Entrevistas IG Reel | Stand | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 | 🧠 Kahoot sobre Git y GitHub | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
+| 4️⃣ | Viernes, 27/09/2024 | 13:30 - 14:00 | 📱 Entrevistas IG Reel | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Hackeando el Soporte: El arte de reducir y eliminar tickets | Stand | Nico Distefano y Ailen Lujan (MELI) |
 | 4️⃣ | Viernes, 27/09/2024 | 14:30 - 15:00 | 🚀 Impulsando tu DevEx con GitHub Copilot | Auditorio | @mcantu |
-| 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
+| 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 5️⃣ | Sábado, 28/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Listening to the developers' voice: DevEx at MELI | Stand | Pamela Rosales (MELI) |
-| 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | Equipo GitHub |
+| 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 
 
 ## Términos y Condiciones ✍🏽
