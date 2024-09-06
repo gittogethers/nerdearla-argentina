@@ -1,3 +1,5 @@
+## Unete al evento virtual: [Enlace](https://app.swapcard.com/event/nerdearla-2024/planning/UGxhbm5pbmdfMjA4ODkyNA==)
+
 ### Dominando GitHub: Estrategias y Preparación para la Certificación de Fundamentos
 
 Participa en nuestro taller especializado diseñado para desarrolladores, por desarrolladores, con el objetivo de dominar GitHub a un nivel fundamental. Este taller técnico está estructurado para proporcionar a los ingenieros y profesionales del desarrollo de software las competencias esenciales para manejar eficazmente proyectos en GitHub, optimizar la colaboración y garantizar la seguridad y administración efectiva de repositorios. Será impartido por [Andrea Griffiths](url), Senior PM, y [Javier Perez](https://www.linkedin.com/in/perezjavi/), Senior Engineering Manager, ambos con una vasta experiencia y trayectoria en GitHub.
