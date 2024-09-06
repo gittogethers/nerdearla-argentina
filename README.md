@@ -15,11 +15,13 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | Día | Fecha | Hora | Actividad | Ubicación | Ponente |
 |:---:|:------|:-----|:----------|:----------|:--------|
 | 1️⃣ | Martes, 24/09/2024 | 10:40 - 12:10 | 🖥️ GitHub Virtual Stand Apertura | Plataforma Virtual | Equipo GitHub |
-| 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | GitHub Star VanessaMarely |
+| 1️⃣ | Martes, 24/09/2024 | 15:20 - 16:00 | 🚀 Derribando barreras con JavaScript | Virtual | GitHub Star @VanessaMarely |
 | 2️⃣ | Miércoles, 25/09/2024 | 10:40 - 12:10 | 🎓 Taller de Fundamentos de GitHub | Virtual | Andrea |
 | 3️⃣ | Jueves, 26/09/2024 | 10:00 | 🎉 Apertura de la Exhibición Física | Konex | Equipo GitHub |
+| 3️⃣ | Jueves, 26/09/2024 | 10:10 - 10:50 | 🚶‍♂️ La Senda del Freelance | Konex - Gran Sala | GitHub Star Brais Moure |
 | 3️⃣ | Jueves, 26/09/2024 | 10:30 - 11:00 | 🤝 Presentación Comunidad GitHub Buenos Aires | Stand | GitHub Community Leader Eduardo Spotti |
 | 3️⃣ | Jueves, 26/09/2024 | 10:50 | 🏗️ Mantenimiento de Monorepo | Virtual | Amenocal |
+| 3️⃣ | Jueves, 26/09/2024 | 11:15 - 11:45 | 📚 Meet Brais Moure Sorteo de Libros | Stand | GitHub Star Brais Moure |
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | GitHub Campus Expert Ignacio Palma |
 | 3️⃣ | Jueves, 26/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Unlocking the not-so-secret formula for great software | Stand | Javier Cardoso (MELI) |
 | 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
@@ -32,7 +34,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 4️⃣ | Viernes, 27/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Hackeando el Soporte: El arte de reducir y eliminar tickets | Stand | Nico Distefano y Ailen Lujan (MELI) |
 | 4️⃣ | Viernes, 27/09/2024 | 14:30 - 15:00 | 🚀 Impulsando tu DevEx con GitHub Copilot | Auditorio | @mcantu |
 | 4️⃣ | Viernes, 27/09/2024 | 16:00 - 16:30 | 🧠 Kahoot sobre Git y GitHub | Stand | Equipo GitHub |
-| 5️⃣ | Sábado, 28/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Listening to the developers’ voice: DevEx at MELI | Stand | Pamela Rosales (MELI) |
+| 5️⃣ | Sábado, 28/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Listening to the developers' voice: DevEx at MELI | Stand | Pamela Rosales (MELI) |
 | 5️⃣ | Sábado, 28/09/2024 | 16:00 | 🎁 Sorteo Final | Konex | Equipo GitHub |
 
 
