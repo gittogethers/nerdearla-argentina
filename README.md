@@ -24,7 +24,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 3️⃣ | Jueves, 26/09/2024 | 11:15 - 11:45 | 📚 Meet Brais Moure Sorteo de Libros | Stand | [GitHub Star Brais Moure](https://www.youtube.com/@mouredev) |
 | 3️⃣ | Jueves, 26/09/2024 | 12:00 - 12:30 | 👩‍🎓 Beneficios de GitHub Education | Stand | [GitHub Campus Expert Ignacio Palma](https://gh.io/ignacio) |
 | 3️⃣ | Jueves, 26/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Hackeando el Soporte: El arte de reducir y eliminar tickets | Stand | Nico Distefano y Ailen Lujan (Mercado Libre) |
-| 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | @mageroni |
+| 3️⃣ | Jueves, 26/09/2024 | 15:20 - 16:00 | 🔒 Código Seguro por Diseño | Auditorio | [Mabel Gerónimo](https://www.linkedin.com/in/mabel-ger%C3%B3nimo-88b11091/) |
 | 3️⃣ | Jueves, 26/09/2024 | 16:25 - 17:00 | 💻 Experiencia del Desarrollador: Ayudando a tu equipo y tu negocio a prosperar | Gran Sala | [Luis Pujols](https://www.linkedin.com/in/pujolsluis/) |
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
