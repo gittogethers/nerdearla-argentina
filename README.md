@@ -29,7 +29,7 @@ Perfecto para desarrolladores de todos los niveles. ¡Prepárate para aprender, 
 | 3️⃣ | Jueves, 26/09/2024 | 17:00 | 🐙 Octotrivia | Stand GitHub | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 10:00 | 🎉 Apertura de la Exhibición | Konex | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 11:50 - 12:30 | 🌐 Open Source Viernes en vivo | Stream y presencial | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
-| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 | 🧠 Kahoot sobre Git y GitHub | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
+| 4️⃣ | Viernes, 27/09/2024 | 12:30 - 13:00 |  Meet @midudev Sorteo de Libros 🧠 Kahoot sobre Git y GitHub | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 13:30 - 14:00 | 📱 Entrevistas IG Reel | Stand | [Equipo GitHub](https://github.com/gittogethers/nerdearla-argentina/blob/main/equipo.md) |
 | 4️⃣ | Viernes, 27/09/2024 | 14:00 - 14:20 | 🎙 Lightning Talk: Unlocking the not-so-secret formula for great software | Stand | Javier Cardoso (Mercado Libre)|
 | 4️⃣ | Viernes, 27/09/2024 | 14:30 - 15:00 | 🚀 Impulsando tu DevEx con GitHub Copilot | Auditorio | @mcantu |
