@@ -1,0 +1,22 @@
+name: Extract Usernames
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  extract_usernames:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Run extract_usernames script
+        run: node scripts/extract_usernames.js ${{ github.event.issue.number }}
