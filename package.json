@@ -1,0 +1,15 @@
+{
+  "name": "nerdearla-argentina",
+  "version": "1.0.0",
+  "description": "A repository for Nerdearla Argentina event",
+  "main": "index.js",
+  "scripts": {
+    "extract_usernames": "node scripts/extract_usernames.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.0.0",
+    "fs": "0.0.1-security"
+  },
+  "author": "",
+  "license": "ISC"
+}
