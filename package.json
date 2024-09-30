@@ -7,7 +7,7 @@
     "extract_usernames": "node scripts/extract_usernames.js"
   },
   "dependencies": {
-    "@octokit/rest": "^18.0.0",
+    "@octokit/rest": "^21.0.2",
     "fs": "0.0.1-security"
   },
   "author": "",
